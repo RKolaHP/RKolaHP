@@ -14,6 +14,10 @@
 
 [ **ENTER THE FULL RACHNA.OS →** ](https://rkolahp.github.io/Rachna-OS/)
 
+<br>
+
+`● SYSTEM ONLINE`    `MODE: BUILD`    `SIGNAL: ACTIVE`
+
 </div>
 
 ---
@@ -24,7 +28,15 @@
 
 ### DATA → INTELLIGENCE → DECISION
 
-`SYSTEM ONLINE` · `MODE: BUILD` · `SIGNAL: ACTIVE`
+</div>
+
+---
+
+## `01 // THE ATLAS`
+
+<div align="center">
+
+### FIVE WORLDS. ONE SYSTEM.
 
 </div>
 
@@ -40,6 +52,10 @@ Predictive analytics and machine learning exploring high-impact decision support
 
 `HEALTHCARE` · `PREDICTION` · `RISK`
 
+<br>
+
+[ **ENTER RISK →** ](https://rkolahp.github.io/Rachna-OS/#atlas)
+
 </td>
 
 <td width="50%" valign="top">
@@ -51,6 +67,10 @@ Predictive analytics and machine learning exploring high-impact decision support
 Computer vision and deep learning for understanding physical objects.
 
 `PYTORCH` · `VISION` · `DEEP LEARNING`
+
+<br>
+
+[ **ENTER VISION →** ](https://rkolahp.github.io/Rachna-OS/#atlas)
 
 </td>
 </tr>
@@ -66,6 +86,10 @@ Healthcare signals transformed into predictive insight.
 
 `ML` · `HEALTHCARE` · `PREDICTIVE ANALYTICS`
 
+<br>
+
+[ **ENTER SIGNAL →** ](https://rkolahp.github.io/Rachna-OS/#atlas)
+
 </td>
 
 <td width="50%" valign="top">
@@ -77,6 +101,10 @@ Healthcare signals transformed into predictive insight.
 Medical imaging, deep learning, and automated detection.
 
 `TENSORFLOW` · `CNN` · `MEDICAL AI`
+
+<br>
+
+[ **ENTER NEURAL →** ](https://rkolahp.github.io/Rachna-OS/#atlas)
 
 </td>
 </tr>
@@ -92,17 +120,27 @@ Natural language processing for misinformation investigation and text classifica
 
 `NLP` · `CLASSIFICATION` · `LANGUAGE`
 
+<br>
+
+[ **ENTER TRUTH →** ](https://rkolahp.github.io/Rachna-OS/#atlas)
+
 </td>
 
 <td width="50%" valign="top">
 
 ### `SYSTEM // THE CONNECTION`
 
-Different problems. Different datasets. Different models.
+Different problems.
+Different datasets.
+Different models.
 
 **One underlying question:**
 
 > How can complex data become useful intelligence?
+
+<br>
+
+[ **ENTER THE SYSTEM →** ](https://rkolahp.github.io/Rachna-OS/)
 
 </td>
 </tr>
@@ -112,28 +150,48 @@ Different problems. Different datasets. Different models.
 
 <div align="center">
 
-`MEMORY FIELD // WHERE THE SYSTEM CAME FROM`
+[ **EXPLORE THE FULL ATLAS →** ](https://rkolahp.github.io/Rachna-OS/#atlas)
 
 </div>
 
-| SIGNAL | ORIGIN |
-|---|---|
-| `2023` | **BRIT** — Research, data organization, documentation, and analytical problem solving. |
-| `2023` | **UNT LIBRARIES** — Research workflows, structured information, organization, and analytical thinking. |
-| `2024 — 2026` | **GENPACT** — Data analysis, SQL, Python, visualization, reporting, and business-facing insights. |
-| `NOW` | **NEXT SYSTEM** — Data science, AI, machine learning, analytics, automation, and intelligent interfaces. |
-
 ---
+
+## `02 // MEMORY FIELD`
 
 <div align="center">
 
-`RACHNA.DNA`
+`WHERE THE SYSTEM CAME FROM`
+
+</div>
+
+| SIGNAL        | ORIGIN                                                                                                   |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| `2023`        | **BRIT** — Research, data organization, documentation, and analytical problem solving.                   |
+| `2023`        | **UNT LIBRARIES** — Research workflows, structured information, organization, and analytical thinking.   |
+| `2024 — 2026` | **GENPACT** — Data analysis, SQL, Python, visualization, reporting, and business-facing insights.        |
+| `NOW`         | **NEXT SYSTEM** — Data science, AI, machine learning, analytics, automation, and intelligent interfaces. |
+
+<div align="center">
+
+[ **ENTER MEMORY FIELD →** ](https://rkolahp.github.io/Rachna-OS/#memory)
+
+</div>
+
+---
+
+## `03 // RACHNA.DNA`
+
+<div align="center">
 
 ### THE TOOLS INSIDE THE SYSTEM
 
-`PYTHON` · `SQL` · `R` · `JAVA` · `PANDAS` · `NUMPY`
+<br>
 
-`SCIKIT-LEARN` · `TENSORFLOW` · `PYTORCH`
+`PYTHON` · `SQL` · `R` · `JAVA`
+
+`PANDAS` · `NUMPY` · `SCIKIT-LEARN`
+
+`TENSORFLOW` · `PYTORCH`
 
 `MACHINE LEARNING` · `NLP` · `COMPUTER VISION`
 
@@ -141,17 +199,23 @@ Different problems. Different datasets. Different models.
 
 `AWS` · `GCP` · `BIGQUERY` · `SPARK`
 
-`HADOOP` · `SNOWFLAKE` · `ETL` · `DATA PIPELINES`
+`HADOOP` · `SNOWFLAKE`
+
+`ETL` · `DATA PIPELINES`
 
 `PREDICTIVE ANALYTICS` · `DATA VISUALIZATION`
+
+<br><br>
+
+[ **EXPLORE RACHNA.DNA →** ](https://rkolahp.github.io/Rachna-OS/#dna)
 
 </div>
 
 ---
 
-<div align="center">
+## `04 // THE WORLDS BEYOND DATA`
 
-`THE WORLDS BEYOND DATA`
+<div align="center">
 
 ### HEALTHCARE · CYBERSECURITY · ROBOTICS · CREATIVE TECHNOLOGY
 
@@ -159,27 +223,49 @@ Different problems. Different datasets. Different models.
 
 **I build at the intersection of analytical thinking, machine intelligence, automation, and human interaction.**
 
+<br>
+
+```text
+DATA
+  ↓
+PATTERN
+  ↓
+MODEL
+  ↓
+INTERFACE
+  ↓
+DECISION
+```
+
 </div>
 
 ---
 
+## `05 // UNKNOWN`
+
 <div align="center">
 
-`UNKNOWN`
+`THE QUESTION THE SYSTEM IS STILL EXPLORING`
 
 # WHAT HAPPENS WHEN DATA BECOMES INTELLIGENT?
 
 ### And intelligence becomes something people can interact with?
 
+<br>
+
 **That is the system I am building.**
+
+<br>
+
+[ **ENTER THE UNKNOWN →** ](https://rkolahp.github.io/Rachna-OS/)
 
 </div>
 
 ---
 
-<div align="center">
+## `06 // TRANSMISSION`
 
-`TRANSMISSION`
+<div align="center">
 
 # LET'S CONNECT.
 
@@ -188,22 +274,24 @@ If you're building something interesting involving **data, AI, analytics, automa
 <br>
 
 [ `PORTFOLIO →` ](https://rkolahp.github.io/RKola-s-Portfolio/)
-&nbsp;&nbsp;•&nbsp;&nbsp;
+  •  
 [ `LINKEDIN →` ](https://www.linkedin.com/in/rachnakola)
-&nbsp;&nbsp;•&nbsp;&nbsp;
+  •  
 [ `GITHUB →` ](https://github.com/RKolaHP)
-&nbsp;&nbsp;•&nbsp;&nbsp;
+  •  
 [ `TRAILBLAZER →` ](https://www.salesforce.com/trailblazer/rkola017)
-&nbsp;&nbsp;•&nbsp;&nbsp;
+  •  
 [ `EMAIL →` ](mailto:rachnakola1107@gmail.com)
 
 </div>
 
 ---
 
+## `07 // GITHUB TELEMETRY`
+
 <div align="center">
 
-`GITHUB TELEMETRY`
+`SYSTEM ACTIVITY`
 
 <br>
 
@@ -226,18 +314,26 @@ DATA IS EVERYWHERE.
 PATTERNS ARE HIDDEN.
 INTELLIGENCE IS BUILT.
 THE INTERFACE IS NEXT.
+
 DATA → INTELLIGENCE → DECISION
-
-OPEN RACHNA.OS →
-
-<br>
-
-SYSTEM STATUS: ● ONLINE
-
-The universe is still loading.
+```
 
 <br>
 
-© 2026 RACHNA KOLA
+### [ OPEN RACHNA.OS ↗ ](https://rkolahp.github.io/Rachna-OS/)
 
-</div> ```
+<br>
+
+`SYSTEM STATUS: ● ONLINE`
+
+**The universe is still loading.**
+
+<br>
+
+`RACHNA // DATA × AI × DESIGN`
+
+<br>
+
+`© 2026 RACHNA KOLA`
+
+</div>
