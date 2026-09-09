@@ -1,458 +1,533 @@
 <div align="center">
 
-# RACHNA.OS
+# RACHNA
 
-### `DATA × AI × ANALYTICS × AUTOMATION`
+### `A LIVING DATA UNIVERSE`
 
-**I build systems that turn information into intelligence.**
+**DATA × AI × DESIGN × AUTOMATION**
 
-<br/>
+<br>
 
-<a href="https://rkolahp.github.io/RKola-s-Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-ENTER%20SYSTEM-111111?style=for-the-badge" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/rachnakola">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:rachnakola1107@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-OPEN%20CHANNEL-111111?style=for-the-badge" alt="Contact"/>
-</a>
+> **YOU ARE NOT LOOKING AT A RESUME.**
+> **YOU ARE INSIDE A SYSTEM.**
 
-<br/><br/>
+<br>
 
-<img src="./assets/hero.svg" alt="Rachna OS hero interface" width="100%"/>
+`[ ENTER THE UNIVERSE ]`
 
 </div>
 
 ---
 
-<div align="center">
-
-`● SYSTEM ONLINE`    `BUILD 2026.09`    `DFW / USA`
-
-</div>
-
-<br/>
-
-> **DATA IS EVERYWHERE.**
->
-> The interesting part is discovering what it means.
-
----
-
-# `01 // SYSTEM BOOT`
+# `01 / THE ATLAS`
 
 ```text
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│                         RACHNA.OS                                  │
-│                  PERSONAL INTELLIGENCE SYSTEM                      │
-│                                                                    │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│   INPUT                    TRANSFORM                    OUTPUT      │
-│                                                                    │
-│   DATA          ───────►   ANALYTICS       ───────►    INSIGHT     │
-│   DOCUMENTS     ───────►   AI / ML         ───────►    INTELLIGENCE│
-│   QUESTIONS     ───────►   EXPERIMENTS     ───────►    DECISIONS   │
-│   WORKFLOWS     ───────►   AUTOMATION      ───────►    IMPACT      │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
+                    RACHNA // CORE
 
-I work at the intersection of **data, artificial intelligence, analytics, automation, and human-facing interfaces** — turning messy information into systems people can actually use.
-
----
-
-# `02 // THE SYSTEM MAP`
-
-<img src="./assets/system-map.svg" alt="Rachna OS system map" width="100%"/>
-
-```text
-/RACHNA.OS
-│
-├── /INTELLIGENCE
-│   ├── Machine Learning
-│   ├── Deep Learning
-│   ├── NLP
-│   ├── LLMs
-│   └── Predictive Modeling
-│
-├── /ANALYTICS
-│   ├── Data Exploration
-│   ├── Statistical Analysis
-│   ├── Business Intelligence
-│   ├── Visualization
-│   └── Decision Support
-│
-├── /AUTOMATION
-│   ├── ETL
-│   ├── Reporting
-│   ├── Data Quality
-│   └── Intelligent Workflows
-│
-├── /INTERFACES
-│   ├── Dashboards
-│   ├── Data Experiences
-│   ├── Web Interfaces
-│   └── Visual Storytelling
-│
-└── /EXPERIMENTS
-    ├── AI Fraud Detection
-    ├── Agentic Resume Intelligence
-    ├── Sales Forecasting
-    └── Computer Vision Research
-```
-
----
-
-# `03 // THE LAB`
-
-### `EXPERIMENT_001`
-
-## CAN A MACHINE SEE FRAUD?
-
-**AI × NLP × Machine Learning × Document Intelligence**
-
-A fraud-detection system exploring how AI can extract meaningful signals from uploaded documents and support intelligent decision-making.
-
-```text
-DOCUMENT
-    ↓
-TEXT / FEATURES
-    ↓
-NLP
-    ↓
-ML / LLM SIGNALS
-    ↓
-RISK INTELLIGENCE
-    ↓
-DECISION
-```
-
-`AI` `NLP` `PYTHON` `ML` `DOCUMENT ANALYSIS`
-
----
-
-### `EXPERIMENT_002`
-
-## WHAT IF A RESUME COULD THINK?
-
-**Generative AI × LLM × Agentic Systems × Automation**
-
-An experimental resume-screening concept designed around intelligent extraction, reasoning, matching, and workflow automation.
-
-```text
-RESUME
-   ↓
-EXTRACT
-   ↓
-UNDERSTAND
-   ↓
-REASON
-   ↓
-MATCH
-   ↓
-RECOMMEND
-```
-
-`GENAI` `LLM` `AGENTS` `AUTOMATION` `PYTHON`
-
----
-
-### `EXPERIMENT_003`
-
-## CAN NUMBERS TELL US WHAT HAPPENS NEXT?
-
-**Data × Forecasting × Visualization × Business Intelligence**
-
-Exploring sales data through cleaning, exploratory analysis, forecasting, and interactive visualization to move from historical numbers toward future decisions.
-
-```text
-RAW DATA
-   ↓
-CLEAN
-   ↓
-EXPLORE
-   ↓
-MODEL
-   ↓
-FORECAST
-   ↓
-VISUALIZE
-```
-
-`PYTHON` `PANDAS` `ML` `TABLEAU` `POWER BI`
-
----
-
-### `EXPERIMENT_004`
-
-## CAN A SPECIMEN BECOME DATA?
-
-**Research × Computer Vision × Python × Data Extraction**
-
-A research-oriented computer-vision workflow for extracting structured information from herbarium specimen imagery.
-
-```text
-SPECIMEN IMAGE
-       ↓
-       CV
-       ↓
-BARCODE DETECTION
-       ↓
-TEXT / IDENTIFIER
-       ↓
-STRUCTURED DATA
-```
-
-`PYTHON` `COMPUTER VISION` `RESEARCH` `DATA`
-
----
-
-# `04 // TOOLBOX`
-
-<div align="center">
-
-### COMPUTE
-
-`PYTHON` `SQL` `R` `JAVA`
-
-<br/>
-
-### DATA
-
-`PANDAS` `NUMPY` `SCIKIT-LEARN` `SPARK` `HADOOP`
-
-<br/>
-
-### INTELLIGENCE
-
-`TENSORFLOW` `PYTORCH` `NLP` `LLMs` `FEATURE ENGINEERING` `PREDICTIVE MODELING`
-
-<br/>
-
-### VISUALIZATION
-
-`POWER BI` `TABLEAU` `MATPLOTLIB` `DATA STORYTELLING`
-
-<br/>
-
-### CLOUD / DATA PLATFORMS
-
-`AWS` `GCP` `BIGQUERY` `SNOWFLAKE`
-
-<br/>
-
-### SYSTEMS
-
-`ETL` `DATA QUALITY` `AUTOMATION` `BUSINESS INTELLIGENCE` `ANALYTICS ENGINEERING`
-
-</div>
-
----
-
-# `05 // DATA WEATHER`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                    RACHNA.OS / TELEMETRY                   │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  DATA              ████████████████████░░   HIGH          │
-│  AI                █████████████████████░   RISING        │
-│  AUTOMATION        ██████████████████░░░░   ACTIVE        │
-│  VISUALIZATION     █████████████████░░░░░   ACTIVE        │
-│  EXPERIMENTS       ███████████████████░░░   BUILDING      │
-│                                                            │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  CURRENT MODE:     EXPLORATION                             │
-│  NEXT MODE:        INTELLIGENCE                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-> *Telemetry is intentionally conceptual — the interface is part of the story.*
-
----
-
-# `06 // CURRENT FREQUENCY`
-
-```text
-                         GENERATIVE AI
-                               │
-                               ▼
-                       AGENTIC SYSTEMS
-                               │
-                               ▼
-                    INTELLIGENT WORKFLOWS
-                               │
-                               ▼
-                       DATA INTELLIGENCE
-                               │
-                               ▼
-                     AUTOMATED DECISIONS
-```
-
-I'm especially interested in the moment where **data stops being information and starts becoming behavior**.
-
----
-
-# `07 // THE BUILD LOOP`
-
-```text
-                  ┌─────────────┐
-                  │   OBSERVE   │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │  QUESTION   │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │   EXPLORE   │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    BUILD    │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    SHIP     │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │    LEARN    │
-                  └──────┬──────┘
+                         ◉
                          │
-                         └──────────────► OBSERVE
+             ┌───────────┼───────────┐
+             │           │           │
+             ▼           ▼           ▼
+
+           RISK        VISION      SIGNAL
+            ◉            ◉            ◉
+             │           │           │
+             └───────────┼───────────┘
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+
+           NEURAL                 TRUTH
+             ◉                      ◉
+
+                         │
+                         ▼
+
+                    THE UNKNOWN
+                         ?
 ```
 
+I work where **data becomes intelligence**.
+
+Not simply dashboards.
+
+Not simply models.
+
+Not simply code.
+
+The interesting part is the space between them:
+
+**DATA → PATTERN → MODEL → INTERFACE → DECISION**
+
 ---
 
-# `08 // SIGNALS`
+# `02 / THE WORLDS`
 
-| SIGNAL       | WHAT IT MEANS                                         |
-| ------------ | ----------------------------------------------------- |
-| `DATA`       | Find the pattern inside the noise.                    |
-| `AI`         | Teach systems to recognize, reason, and predict.      |
-| `DESIGN`     | Make complex information understandable.              |
-| `AUTOMATION` | Turn repetitive decisions into intelligent workflows. |
+## `WORLD_01 // RISK`
 
----
+### `PREDICTION ENGINE`
 
-# `09 // OUTSIDE THE TERMINAL`
-
-My interests extend beyond the traditional boundaries of analytics:
+**Surgical Precision & Financial Risk Prediction**
 
 ```text
-HEALTHCARE
-     ×
-CYBERSECURITY
-     ×
-ARTIFICIAL INTELLIGENCE
-     ×
-RESEARCH
-     ×
-ROBOTICS
-     ×
-HUMAN EXPERIENCE
+SYSTEM          PREDICTION ENGINE
+DOMAIN          HEALTHCARE × RISK
+MODE            ANALYTICS
+STATE           ● ACTIVE
+
+INPUT           DATA
+                 ↓
+             FEATURES
+                 ↓
+              MODEL
+                 ↓
+            PREDICTION
+                 ↓
+             DECISION
 ```
 
-The goal isn't simply to build another model.
+A predictive analytics experiment exploring how structured data can become a decision-support layer.
 
-**The goal is to build something useful.**
+**STACK**
+
+`Python` `Machine Learning` `Predictive Analytics`
 
 ---
 
-# `10 // GITHUB TELEMETRY`
+## `WORLD_02 // VISION`
+
+### `COMPUTER VISION LAB`
+
+**AI Robotic Surgical Instrument Segmentation**
+
+```text
+┌────────────────────────────────────┐
+│                                    │
+│       CAMERA FEED                  │
+│                                    │
+│          ◉                         │
+│        / | \                       │
+│       /  |  \                      │
+│                                    │
+│     OBJECT → DETECT → SEGMENT      │
+│                                    │
+└────────────────────────────────────┘
+
+VISION ENGINE : ONLINE
+```
+
+An experiment in computer vision focused on identifying and segmenting robotic surgical instruments.
+
+**STACK**
+
+`PyTorch` `Computer Vision` `Deep Learning`
+
+---
+
+## `WORLD_03 // SIGNAL`
+
+### `CARDIO SIGNAL`
+
+**Stroke & Cardiovascular Risk Prediction**
+
+```text
+SIGNAL DETECTED
+
+     ╱╲       ╱╲
+    ╱  ╲     ╱  ╲
+___╱    ╲___╱    ╲____
+
+PATTERN
+   ↓
+FEATURES
+   ↓
+RISK MODEL
+   ↓
+INTERPRETATION
+```
+
+Exploring how patterns hidden inside healthcare data can reveal meaningful risk signals.
+
+**STACK**
+
+`Python` `Machine Learning` `Healthcare Analytics`
+
+---
+
+## `WORLD_04 // NEURAL`
+
+### `MEDICAL VISION`
+
+**Brain Tumor Detection**
+
+```text
+         ┌───────────────┐
+         │   IMAGE       │
+         │               │
+         │      ◉        │
+         │    ╱   ╲      │
+         │   │  █  │     │
+         │    ╲___╱      │
+         │               │
+         └───────┬───────┘
+                 │
+                 ▼
+              CNN
+                 │
+                 ▼
+            DETECTION
+```
+
+A medical-imaging experiment exploring automated pattern detection through neural networks.
+
+**STACK**
+
+`TensorFlow` `CNN` `Medical AI`
+
+---
+
+## `WORLD_05 // TRUTH`
+
+### `FORENSIC NLP`
+
+**Fake News Detection**
+
+```text
+TEXT INCOMING...
+
+┌──────────────────────────────┐
+│ "information detected..."    │
+│                              │
+│ linguistic patterns         │
+│ semantic signals            │
+│ classification features     │
+└──────────────┬───────────────┘
+               │
+               ▼
+        NLP CLASSIFIER
+               │
+               ▼
+        SIGNAL / NOISE
+```
+
+An NLP experiment investigating how language patterns can be used to classify potentially misleading information.
+
+**STACK**
+
+`Python` `NLP` `Classification`
+
+---
+
+# `03 / THE ARCHIVE`
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│              THE PROJECT ARCHIVE             │
+│                                              │
+│   [01] RISK       predictive intelligence    │
+│   [02] VISION     computer perception        │
+│   [03] SIGNAL     healthcare patterns        │
+│   [04] NEURAL     medical imaging            │
+│   [05] TRUTH      language intelligence      │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+Five experiments.
+
+Five different ways of asking the same question:
+
+> **What can we discover when we teach machines to recognize patterns?**
+
+---
+
+# `04 / MEMORY FIELD`
+
+My work is not a list of job titles.
+
+It is a sequence of environments.
+
+```text
+                         NOW
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │   DATA / AI     │
+                 │   ANALYTICS     │
+                 │   AUTOMATION    │
+                 └────────┬────────┘
+                          │
+                          │
+              ┌───────────┼───────────┐
+              │           │           │
+              ▼           ▼           ▼
+
+            GENPACT       UNT       BRIT
+             2024→26     2023       2023
+              │           │           │
+              ▼           ▼           ▼
+
+          ANALYTICS    RESEARCH    SCIENCE
+              │           │           │
+              └───────────┼───────────┘
+                          │
+                          ▼
+                       ORIGIN
+```
+
+### `GENPACT // ANALYTICS`
+
+Data analysis, SQL, Python, visualization and business-facing insights.
+
+### `UNT LIBRARIES // RESEARCH`
+
+Research workflows, structured information, data organization and analytical thinking.
+
+### `BRIT // SCIENCE`
+
+Research, information handling and a Python-based barcode-reading workflow for herbarium data.
+
+### `TECHNICAL COMMUNITIES`
+
+Collaboration, technical learning, knowledge sharing and community building.
+
+---
+
+# `05 / RACHNA.DNA`
+
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│                 RACHNA.DNA                      │
+│                                                 │
+│  COMPUTE                                        │
+│  ├── Python                                     │
+│  ├── SQL                                        │
+│  ├── R                                          │
+│  └── Java                                       │
+│                                                 │
+│  INTELLIGENCE                                   │
+│  ├── Machine Learning                           │
+│  ├── Predictive Analytics                       │
+│  ├── NLP                                        │
+│  ├── Computer Vision                            │
+│  ├── TensorFlow                                 │
+│  └── PyTorch                                    │
+│                                                 │
+│  VISUALIZATION                                  │
+│  ├── Power BI                                   │
+│  ├── Tableau                                    │
+│  ├── Matplotlib                                 │
+│  └── Dashboards                                 │
+│                                                 │
+│  DATA SYSTEMS                                   │
+│  ├── Pandas                                     │
+│  ├── NumPy                                      │
+│  ├── ETL                                        │
+│  ├── BigQuery                                   │
+│  ├── Spark                                      │
+│  ├── Hadoop                                     │
+│  └── Snowflake                                  │
+│                                                 │
+│  CLOUD                                          │
+│  ├── AWS                                        │
+│  └── GCP                                        │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+# `06 / THE WORLDS BEYOND DATA`
+
+I don't want technology to exist only inside a terminal.
+
+I like building things that feel **alive**.
+
+```text
+             DATA
+               │
+               ▼
+          ┌──────────┐
+          │   AI     │
+          └────┬─────┘
+               │
+        ┌──────┼──────┐
+        ▼      ▼      ▼
+      DESIGN  CODE  STORY
+        │      │      │
+        └──────┼──────┘
+               ▼
+          EXPERIENCE
+```
+
+### `HEALTHCARE`
+
+Where machine intelligence can help reveal patterns inside complex information.
+
+### `CYBERSECURITY`
+
+Where signals, anomalies and evidence become the story.
+
+### `ROBOTICS`
+
+Where perception meets physical systems.
+
+### `CREATIVE TECHNOLOGY`
+
+Where data becomes something people can actually experience.
+
+---
+
+# `07 / THE UNSOLVED`
+
+I am interested in questions that don't have a clean answer yet.
+
+```text
+?
+
+Can a dashboard become a decision system?
+
+Can AI explain what a dataset is trying to say?
+
+Can healthcare models become more understandable?
+
+Can data interfaces feel human?
+
+Can analytics become an experience?
+
+Can code become a medium for storytelling?
+
+Can intelligence be designed?
+```
+
+**These are not finished projects.**
+
+They're directions.
+
+---
+
+# `08 / CURRENT SIGNAL`
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│ STATUS      EXPLORING                      │
+│                                            │
+│ FOCUS       DATA × AI × ANALYTICS         │
+│             MACHINE LEARNING               │
+│             AUTOMATION                     │
+│             INTELLIGENT INTERFACES         │
+│                                            │
+│ MODE        BUILD                          │
+│                                            │
+│ NEXT        ?                              │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+Currently interested in building systems where **analytics, AI and automation meet real-world problems.**
+
+---
+
+# `09 / TRANSMISSION`
+
+### `THE HUMAN LAYER`
+
+Behind the models, dashboards and datasets is someone who likes making things.
+
+I write.
+
+I experiment.
+
+I design.
+
+I learn.
+
+I build.
+
+I break things.
+
+Then I rebuild them differently.
+
+Because sometimes the best way to understand a system is to create one.
+
+---
+
+# `10 / DIGITAL HOME`
+
+```text
+                    FIND ME
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+
+      PORTFOLIO     LINKEDIN       TRAILBLAZER
+        ◉              ◉               ◉
+```
+
+**Portfolio**
+
+`https://rkolahp.github.io/RKola-s-Portfolio/`
+
+**LinkedIn**
+
+`www.linkedin.com/in/rachnakola`
+
+**Salesforce Trailblazer**
+
+`www.salesforce.com/trailblazer/rkola017`
+
+**Email**
+
+`rachnakola1107@gmail.com`
+
+---
+
+# `11 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<a href="https://github.com/RKolaHP">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RKolaHP\&show_icons=true\&hide_border=true\&theme=transparent)
 
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=RKolaHP&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-alt="GitHub statistics"
-/>
-
-</a>
-
-<a href="https://github.com/RKolaHP">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKolaHP&layout=compact&hide_border=true&langs_count=8"
-alt="Top languages"
-/>
-
-</a>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=RKolaHP&hide_border=true"
-alt="GitHub streak"
-/>
+![GitHub Streak](https://streak-stats.demolab.com?user=RKolaHP\&hide_border=true\&theme=transparent)
 
 </div>
 
 ---
 
-# `11 // DIGITAL HOME`
-
-<div align="center">
-
-### `PORTFOLIO`
-
-**[RACHNA.KOLA / PORTFOLIO →](https://rkolahp.github.io/RKola-s-Portfolio/)**
-
-<br/>
-
-### `PROFESSIONAL NETWORK`
-
-**[LINKEDIN / RACHNA KOLA →](https://www.linkedin.com/in/rachnakola)**
-
-<br/>
-
-### `SALESFORCE`
-
-**[TRAILBLAZER / RKOLA017 →](https://www.salesforce.com/trailblazer/rkola017)**
-
-<br/>
-
-### `CONTACT`
-
-**[OPEN COMMUNICATION CHANNEL →](mailto:rachnakola1107@gmail.com)**
-
-</div>
-
----
-
-# `12 // SYSTEM MESSAGE`
-
-<div align="center">
-
-> **There is always another pattern to find.**
->
-> **Another question to ask.**
->
-> **Another system to build.**
-
-<br/>
+# `12 / END?`
 
 ```text
-RACHNA.OS // BUILD 2026.09
-STATUS: ONLINE
-MODE: BUILDING
+                 SYSTEM MESSAGE
+
+       You reached the end of the interface.
+
+       But the system is still running.
+
+       More data.
+       More experiments.
+       More questions.
+       More things to build.
+
+                         ↓
+
+                    NEXT SIGNAL
+
+                         ?
+
+                  [ TRANSMISSION OPEN ]
 ```
 
-<br/>
+<div align="center">
 
-<img src="./assets/footer.svg" alt="Rachna OS footer" width="100%"/>
+### `RACHNA // DATA × AI × DESIGN`
+
+**The universe is still loading.**
+
+`© 2026 Rachna Kola`
 
 </div>
