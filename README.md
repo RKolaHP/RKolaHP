@@ -1,540 +1,500 @@
 <div align="center">
 
-# RACHNA
+# RACHNA.OS
 
-### `A LIVING DATA UNIVERSE`
+### `SYSTEM ONLINE`
 
-**DATA × AI × DESIGN × AUTOMATION**
-
-<br>
-
-> **YOU ARE NOT LOOKING AT A RESUME.**
->
-> **YOU ARE INSIDE A SYSTEM.**
+`RISK`    `VISION`    `SIGNAL`    `NEURAL`    `TRUTH`
 
 <br>
 
-[ **ENTER RACHNA.OS →** ](https://rkolahp.github.io/Rachna-OS/)
+## `DATA × AI × ANALYTICS × AUTOMATION`
+
+<br>
+
+# RACHNA KOLA
+
+### **YOU ARE NOT LOOKING AT A RESUME.**
+
+### **YOU ARE INSIDE A SYSTEM.**
+
+`[ SYSTEM INITIALIZED // 2026 ]`
+
+<br>
+
+[ **OPEN FULL RACHNA.OS →** ](https://rkolahp.github.io/Rachna-OS/)
 
 </div>
 
 ---
 
-# `01 / THE ATLAS`
+<div align="center">
 
-```text
-                    RACHNA // CORE
+`01 // THE ATLAS`
 
-                         ◉
-                         │
-             ┌───────────┼───────────┐
-             │           │           │
-             ▼           ▼           ▼
+# FIVE WORLDS. ONE SYSTEM.
 
-           RISK        VISION      SIGNAL
-            ◉            ◉            ◉
-             │           │           │
-             └───────────┼───────────┘
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
+`DATA → PATTERN → MODEL → INTERFACE → DECISION`
 
-           NEURAL                 TRUTH
-             ◉                      ◉
+</div>
 
-                         │
-                         ▼
+<br>
 
-                    THE UNKNOWN
-                         ?
-````
+<table>
+<tr>
 
-I work where **data becomes intelligence**.
+<td width="50%" valign="top">
 
-Not simply dashboards.
+### `WORLD_01`
 
-Not simply models.
-
-Not simply code.
-
-The interesting part is the space between them:
-
-**DATA → PATTERN → MODEL → INTERFACE → DECISION**
-
----
-
-# `02 / THE WORLDS`
-
-## `WORLD_01 // RISK`
-
-### `PREDICTION ENGINE`
+# RISK
 
 **Surgical Precision & Financial Risk Prediction**
 
-```text
-SYSTEM          PREDICTION ENGINE
-DOMAIN          HEALTHCARE × RISK
-MODE            ANALYTICS
-STATE           ● ACTIVE
+Exploring how data, predictive analytics, and machine learning can support high-impact decisions.
 
-INPUT           DATA
-                 ↓
-             FEATURES
-                 ↓
-              MODEL
-                 ↓
-            PREDICTION
-                 ↓
-             DECISION
-```
+`HEALTHCARE` · `PREDICTION` · `RISK`
 
-A predictive analytics experiment exploring how structured data can become a decision-support layer.
+</td>
 
-**STACK**
+<td width="50%" valign="top">
 
-`Python` `Machine Learning` `Predictive Analytics`
+### `WORLD_02`
 
----
-
-## `WORLD_02 // VISION`
-
-### `COMPUTER VISION LAB`
+# VISION
 
 **AI Robotic Surgical Instrument Segmentation**
 
-```text
-┌────────────────────────────────────┐
-│                                    │
-│             CAMERA FEED            │
-│                                    │
-│                  ◉                 │
-│                / | \               │
-│               /  |  \              │
-│                                    │
-│       OBJECT → DETECT → SEGMENT    │
-│                                    │
-└────────────────────────────────────┘
+Computer vision meets robotic surgery — machines learning to understand physical objects.
 
-VISION ENGINE : ONLINE
-```
+`PYTORCH` · `COMPUTER VISION` · `DEEP LEARNING`
 
-An experiment in computer vision focused on identifying and segmenting robotic surgical instruments.
+</td>
 
-**STACK**
+</tr>
 
-`PyTorch` `Computer Vision` `Deep Learning`
+<tr>
 
----
+<td width="50%" valign="top">
 
-## `WORLD_03 // SIGNAL`
+### `WORLD_03`
 
-### `CARDIO SIGNAL`
+# SIGNAL
 
 **Stroke & Cardiovascular Risk Prediction**
 
-```text
-SIGNAL DETECTED
+Healthcare signals transformed into predictive insight.
 
-     ╱╲       ╱╲
-    ╱  ╲     ╱  ╲
-___╱    ╲___╱    ╲____
+`MACHINE LEARNING` · `HEALTHCARE` · `PREDICTIVE ANALYTICS`
 
-PATTERN
-   ↓
-FEATURES
-   ↓
-RISK MODEL
-   ↓
-INTERPRETATION
-```
+</td>
 
-Exploring how patterns hidden inside healthcare data can reveal meaningful risk signals.
+<td width="50%" valign="top">
 
-**STACK**
+### `WORLD_04`
 
-`Python` `Machine Learning` `Healthcare Analytics`
-
----
-
-## `WORLD_04 // NEURAL`
-
-### `MEDICAL VISION`
+# NEURAL
 
 **Brain Tumor Detection**
 
-```text
-         ┌───────────────┐
-         │     IMAGE     │
-         │               │
-         │       ◉       │
-         │     ╱   ╲     │
-         │    │  █  │    │
-         │     ╲___╱     │
-         │               │
-         └───────┬───────┘
-                 │
-                 ▼
-                CNN
-                 │
-                 ▼
-             DETECTION
-```
+Medical imaging, deep learning, and automated detection.
 
-A medical-imaging experiment exploring automated pattern detection through neural networks.
+`TENSORFLOW` · `CNN` · `MEDICAL AI`
 
-**STACK**
+</td>
 
-`TensorFlow` `CNN` `Medical AI`
+</tr>
 
----
+<tr>
 
-## `WORLD_05 // TRUTH`
+<td width="50%" valign="top">
 
-### `FORENSIC NLP`
+### `WORLD_05`
+
+# TRUTH
 
 **Fake News Detection**
 
-```text
-TEXT INCOMING...
+Natural language processing used to investigate misinformation and classify text.
 
-┌──────────────────────────────┐
-│ "information detected..."    │
-│                              │
-│ linguistic patterns          │
-│ semantic signals             │
-│ classification features      │
-└──────────────┬───────────────┘
-               │
-               ▼
-        NLP CLASSIFIER
-               │
-               ▼
-        SIGNAL / NOISE
-```
+`NLP` · `CLASSIFICATION` · `LANGUAGE`
 
-An NLP experiment investigating how language patterns can be used to classify potentially misleading information.
+</td>
 
-**STACK**
+<td width="50%" valign="top">
 
-`Python` `NLP` `Classification`
+### `SYSTEM`
 
----
+# THE CONNECTION
 
-# `03 / THE ARCHIVE`
+Different problems.
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│              THE PROJECT ARCHIVE             │
-│                                              │
-│   [01] RISK       predictive intelligence    │
-│   [02] VISION     computer perception        │
-│   [03] SIGNAL     healthcare patterns        │
-│   [04] NEURAL     medical imaging            │
-│   [05] TRUTH      language intelligence      │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+Different datasets.
 
-Five experiments.
+Different models.
 
-Five different ways of asking the same question:
+**One underlying question:**
 
-> **What can we discover when we teach machines to recognize patterns?**
+> How can complex data become useful intelligence?
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-# `04 / MEMORY FIELD`
-
-My work is not a list of job titles.
-
-It is a sequence of environments.
-
-```text
-                         NOW
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   DATA / AI     │
-                 │   ANALYTICS     │
-                 │   AUTOMATION    │
-                 └────────┬────────┘
-                          │
-                          │
-              ┌───────────┼───────────┐
-              │           │           │
-              ▼           ▼           ▼
-
-            GENPACT       UNT       BRIT
-             2024→26     2023       2023
-              │           │           │
-              ▼           ▼           ▼
-
-          ANALYTICS    RESEARCH    SCIENCE
-              │           │           │
-              └───────────┼───────────┘
-                          │
-                          ▼
-                       ORIGIN
-```
-
-### `GENPACT // ANALYTICS`
-
-Data analysis, SQL, Python, visualization and business-facing insights.
-
-### `UNT LIBRARIES // RESEARCH`
-
-Research workflows, structured information, data organization and analytical thinking.
-
-### `BRIT // SCIENCE`
-
-Research, information handling and a Python-based barcode-reading workflow for herbarium data.
-
-### `TECHNICAL COMMUNITIES`
-
-Collaboration, technical learning, knowledge sharing and community building.
-
----
-
-# `05 / RACHNA.DNA`
-
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│                 RACHNA.DNA                      │
-│                                                 │
-│  COMPUTE                                        │
-│  ├── Python                                     │
-│  ├── SQL                                        │
-│  ├── R                                          │
-│  └── Java                                       │
-│                                                 │
-│  INTELLIGENCE                                   │
-│  ├── Machine Learning                           │
-│  ├── Predictive Analytics                       │
-│  ├── NLP                                        │
-│  ├── Computer Vision                            │
-│  ├── TensorFlow                                 │
-│  └── PyTorch                                    │
-│                                                 │
-│  VISUALIZATION                                  │
-│  ├── Power BI                                   │
-│  ├── Tableau                                    │
-│  ├── Matplotlib                                 │
-│  └── Dashboards                                 │
-│                                                 │
-│  DATA SYSTEMS                                   │
-│  ├── Pandas                                     │
-│  ├── NumPy                                      │
-│  ├── ETL                                        │
-│  ├── BigQuery                                   │
-│  ├── Spark                                      │
-│  ├── Hadoop                                     │
-│  └── Snowflake                                  │
-│                                                 │
-│  CLOUD                                          │
-│  ├── AWS                                        │
-│  └── GCP                                        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
----
-
-# `06 / THE WORLDS BEYOND DATA`
-
-I don't want technology to exist only inside a terminal.
-
-I like building things that feel **alive**.
-
-```text
-             DATA
-               │
-               ▼
-          ┌──────────┐
-          │    AI    │
-          └────┬─────┘
-               │
-        ┌──────┼──────┐
-        ▼      ▼      ▼
-      DESIGN  CODE   STORY
-        │      │      │
-        └──────┼──────┘
-               ▼
-          EXPERIENCE
-```
-
-### `HEALTHCARE`
-
-Where machine intelligence can help reveal patterns inside complex information.
-
-### `CYBERSECURITY`
-
-Where signals, anomalies and evidence become the story.
-
-### `ROBOTICS`
-
-Where perception meets physical systems.
-
-### `CREATIVE TECHNOLOGY`
-
-Where data becomes something people can actually experience.
-
----
-
-# `07 / THE UNSOLVED`
-
-I am interested in questions that don't have a clean answer yet.
-
-```text
-?
-
-Can a dashboard become a decision system?
-
-Can AI explain what a dataset is trying to say?
-
-Can healthcare models become more understandable?
-
-Can data interfaces feel human?
-
-Can analytics become an experience?
-
-Can code become a medium for storytelling?
-
-Can intelligence be designed?
-```
-
-**These are not finished projects.**
-
-They're directions.
-
----
-
-# `08 / CURRENT SIGNAL`
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│ STATUS      ONLINE                         │
-│                                            │
-│ MODE        BUILD                          │
-│                                            │
-│ FOCUS       DATA × AI × ANALYTICS         │
-│             MACHINE LEARNING               │
-│             AUTOMATION                     │
-│             INTELLIGENT INTERFACES         │
-│                                            │
-│ SIGNAL      ● ACTIVE                       │
-│                                            │
-│ NEXT        ?                              │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
-Currently interested in building systems where **analytics, AI and automation meet real-world problems.**
-
----
-
-# `09 / TRANSMISSION`
-
-## `THE HUMAN LAYER`
-
-Behind the models, dashboards and datasets is someone who likes making things.
-
-I write.
-
-I experiment.
-
-I design.
-
-I learn.
-
-I build.
-
-I question things.
-
-Then I rebuild them differently.
-
-Because sometimes the best way to understand a system is to create one.
-
----
-
-# `10 / DIGITAL HOME`
-
-```text
-                    FIND ME
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-        ▼              ▼              ▼
-
-      PORTFOLIO     LINKEDIN       TRAILBLAZER
-        ◉              ◉               ◉
-```
-
-**Portfolio**
-[ENTER PORTFOLIO →](https://rkolahp.github.io/RKola-s-Portfolio/)
-
-**LinkedIn**
-[CONNECT →](https://www.linkedin.com/in/rachnakola)
-
-**Salesforce Trailblazer**
-[VIEW PROFILE →](https://www.salesforce.com/trailblazer/rkola017)
-
-**Email**
-[rachnakola1107@gmail.com](mailto:rachnakola1107@gmail.com)
-
-**GitHub**
-[EXPLORE THE CODE →](https://github.com/RKolaHP)
-
----
-
-# `11 / GITHUB TELEMETRY`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RKolaHP\&show_icons=true\&hide_border=true\&theme=transparent)
+`02 // MEMORY FIELD`
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RKolaHP\&hide_border=true\&theme=transparent)
+# WHERE THE SYSTEM CAME FROM.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### `2023`
+
+# BRIT
+
+</td>
+
+<td width="80%">
+
+Research, data organization, documentation, and analytical problem solving at the **Botanical Research Institute of Texas**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### `2023`
+
+# UNT LIBRARIES
+
+</td>
+
+<td>
+
+Research workflows, structured information, organization, and analytical thinking at the **University of North Texas**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### `2024 — 2026`
+
+# GENPACT
+
+</td>
+
+<td>
+
+Data analysis, SQL, Python, visualization, reporting, and business-facing insights.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### `NOW`
+
+# NEXT SYSTEM
+
+</td>
+
+<td>
+
+Exploring and building across **data science, artificial intelligence, machine learning, analytics, automation, and intelligent interfaces.**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+`03 // RACHNA.DNA`
+
+# THE TOOLS INSIDE THE SYSTEM.
+
+</div>
+
+<br>
+
+<div align="center">
+
+### LANGUAGES
+
+`PYTHON`   `SQL`   `R`   `JAVA`
+
+<br>
+
+### DATA
+
+`PANDAS`   `NUMPY`   `SPARK`   `HADOOP`
+
+`BIGQUERY`   `SNOWFLAKE`   `ETL`   `DATA PIPELINES`
+
+<br>
+
+### MACHINE INTELLIGENCE
+
+`SCIKIT-LEARN`   `TENSORFLOW`   `PYTORCH`
+
+`MACHINE LEARNING`   `NLP`   `COMPUTER VISION`
+
+`PREDICTIVE ANALYTICS`
+
+<br>
+
+### VISUALIZATION
+
+`POWER BI`   `TABLEAU`   `MATPLOTLIB`
+
+`DATA VISUALIZATION`
+
+<br>
+
+### CLOUD
+
+`AWS`   `GCP`
 
 </div>
 
 ---
 
-# `12 / END?`
+<div align="center">
 
-```text
-                 SYSTEM MESSAGE
+`04 // THE WORLDS BEYOND DATA`
 
-       You reached the end of the interface.
+# WHAT ELSE IS INSIDE THE SYSTEM?
 
-       But the system is still running.
+</div>
 
-       More data.
-       More experiments.
-       More questions.
-       More things to build.
+<br>
 
-                         ↓
+<table>
+<tr>
 
-                    NEXT SIGNAL
+<td align="center" width="25%">
 
-                         ?
+# HEALTHCARE
 
-                  [ TRANSMISSION OPEN ]
-```
+AI for meaningful decisions, medical analytics, prediction, and intelligent systems.
+
+</td>
+
+<td align="center" width="25%">
+
+# CYBERSECURITY
+
+Finding patterns, signals, anomalies, and intelligence inside complex systems.
+
+</td>
+
+<td align="center" width="25%">
+
+# ROBOTICS
+
+Exploring the intersection of AI, computer vision, physical systems, and automation.
+
+</td>
+
+<td align="center" width="25%">
+
+# CREATIVE TECHNOLOGY
+
+Building interfaces where data becomes something people can see, understand, and interact with.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-### `RACHNA // DATA × AI × DESIGN`
+`05 // UNKNOWN`
 
-**The universe is still loading.**
+# THE QUESTION
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **What happens when data becomes intelligent —**
+>
+> **and intelligence becomes something people can interact with?**
 
 <br>
 
-[ **ENTER RACHNA.OS AGAIN →** ](https://rkolahp.github.io/Rachna-OS/)
+### THAT IS THE SYSTEM I AM BUILDING.
+
+</div>
+
+---
+
+<div align="center">
+
+`06 // CURRENT SIGNAL`
+
+# SYSTEM STATUS
+
+</div>
 
 <br>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  SYSTEM        RACHNA.OS                                │
+│                                                          │
+│  STATUS        ONLINE                                   │
+│                                                          │
+│  MODE          BUILD                                    │
+│                                                          │
+│  SIGNAL        ● ACTIVE                                 │
+│                                                          │
+│  FOCUS         DATA × AI × ANALYTICS                    │
+│                MACHINE LEARNING                         │
+│                AUTOMATION                               │
+│                INTELLIGENT INTERFACES                   │
+│                                                          │
+│  DIRECTION     UNKNOWN                                  │
+│                                                          │
+│  NEXT          ?                                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+`07 // TRANSMISSION`
+
+# LET'S CONNECT.
+
+</div>
+
+<br>
+
+If you're working on something interesting involving **data, artificial intelligence, analytics, automation, or intelligent products** — let's talk.
+
+<br>
+
+<div align="center">
+
+## DIGITAL HOME
+
+<br>
+
+[ `PORTFOLIO →` ](https://rkolahp.github.io/RKola-s-Portfolio/)
+
+   •   
+
+[ `LINKEDIN →` ](https://www.linkedin.com/in/rachnakola)
+
+   •   
+
+[ `GITHUB →` ](https://github.com/RKolaHP)
+
+<br><br>
+
+[ `SALESFORCE TRAILBLAZER →` ](https://www.salesforce.com/trailblazer/rkola017)
+
+   •   
+
+[ `EMAIL →` ](mailto:rachnakola1107@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+`08 // GITHUB TELEMETRY`
+
+# SYSTEM ACTIVITY
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RKolaHP&show_icons=true&hide_border=true&theme=transparent" alt="Rachna's GitHub Stats">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=RKolaHP&hide_border=true&theme=transparent" alt="Rachna's GitHub Streak">
+
+</div>
+
+---
+
+<div align="center">
+
+`09 // END?`
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  SYSTEM MESSAGE                                          │
+│                                                          │
+│  DATA IS EVERYWHERE.                                     │
+│                                                          │
+│  PATTERNS ARE HIDDEN.                                    │
+│                                                          │
+│  INTELLIGENCE IS BUILT.                                  │
+│                                                          │
+│  THE INTERFACE IS NEXT.                                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+# `DATA → INTELLIGENCE → DECISION`
+
+<br>
+
+[ **RETURN TO RACHNA.OS →** ](https://rkolahp.github.io/Rachna-OS/)
+
+<br><br>
+
+`RACHNA // DATA × AI × DESIGN`
+
+<br>
+
+**SYSTEM STATUS: ONLINE**
+
+<br>
+
+*The universe is still loading.*
+
+<br><br>
 
 `© 2026 Rachna Kola`
 
