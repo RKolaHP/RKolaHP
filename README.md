@@ -9,11 +9,12 @@
 <br>
 
 > **YOU ARE NOT LOOKING AT A RESUME.**
+>
 > **YOU ARE INSIDE A SYSTEM.**
 
 <br>
 
-`[ ENTER THE UNIVERSE ]`
+[ **ENTER RACHNA.OS →** ](https://rkolahp.github.io/Rachna-OS/)
 
 </div>
 
@@ -46,7 +47,7 @@
 
                     THE UNKNOWN
                          ?
-```
+````
 
 I work where **data becomes intelligence**.
 
@@ -104,13 +105,13 @@ A predictive analytics experiment exploring how structured data can become a dec
 ```text
 ┌────────────────────────────────────┐
 │                                    │
-│       CAMERA FEED                  │
+│             CAMERA FEED            │
 │                                    │
-│          ◉                         │
-│        / | \                       │
-│       /  |  \                      │
+│                  ◉                 │
+│                / | \               │
+│               /  |  \              │
 │                                    │
-│     OBJECT → DETECT → SEGMENT      │
+│       OBJECT → DETECT → SEGMENT    │
 │                                    │
 └────────────────────────────────────┘
 
@@ -163,20 +164,20 @@ Exploring how patterns hidden inside healthcare data can reveal meaningful risk 
 
 ```text
          ┌───────────────┐
-         │   IMAGE       │
+         │     IMAGE     │
          │               │
-         │      ◉        │
-         │    ╱   ╲      │
-         │   │  █  │     │
-         │    ╲___╱      │
+         │       ◉       │
+         │     ╱   ╲     │
+         │    │  █  │    │
+         │     ╲___╱     │
          │               │
          └───────┬───────┘
                  │
                  ▼
-              CNN
+                CNN
                  │
                  ▼
-            DETECTION
+             DETECTION
 ```
 
 A medical-imaging experiment exploring automated pattern detection through neural networks.
@@ -199,9 +200,9 @@ TEXT INCOMING...
 ┌──────────────────────────────┐
 │ "information detected..."    │
 │                              │
-│ linguistic patterns         │
-│ semantic signals            │
-│ classification features     │
+│ linguistic patterns          │
+│ semantic signals             │
+│ classification features      │
 └──────────────┬───────────────┘
                │
                ▼
@@ -351,12 +352,12 @@ I like building things that feel **alive**.
                │
                ▼
           ┌──────────┐
-          │   AI     │
+          │    AI    │
           └────┬─────┘
                │
         ┌──────┼──────┐
         ▼      ▼      ▼
-      DESIGN  CODE  STORY
+      DESIGN  CODE   STORY
         │      │      │
         └──────┼──────┘
                ▼
@@ -414,14 +415,16 @@ They're directions.
 ```text
 ┌────────────────────────────────────────────┐
 │                                            │
-│ STATUS      EXPLORING                      │
+│ STATUS      ONLINE                         │
+│                                            │
+│ MODE        BUILD                          │
 │                                            │
 │ FOCUS       DATA × AI × ANALYTICS         │
 │             MACHINE LEARNING               │
 │             AUTOMATION                     │
 │             INTELLIGENT INTERFACES         │
 │                                            │
-│ MODE        BUILD                          │
+│ SIGNAL      ● ACTIVE                       │
 │                                            │
 │ NEXT        ?                              │
 │                                            │
@@ -434,7 +437,7 @@ Currently interested in building systems where **analytics, AI and automation me
 
 # `09 / TRANSMISSION`
 
-### `THE HUMAN LAYER`
+## `THE HUMAN LAYER`
 
 Behind the models, dashboards and datasets is someone who likes making things.
 
@@ -448,7 +451,7 @@ I learn.
 
 I build.
 
-I break things.
+I question things.
 
 Then I rebuild them differently.
 
@@ -470,20 +473,19 @@ Because sometimes the best way to understand a system is to create one.
 ```
 
 **Portfolio**
-
-`https://rkolahp.github.io/RKola-s-Portfolio/`
+[ENTER PORTFOLIO →](https://rkolahp.github.io/RKola-s-Portfolio/)
 
 **LinkedIn**
-
-`www.linkedin.com/in/rachnakola`
+[CONNECT →](https://www.linkedin.com/in/rachnakola)
 
 **Salesforce Trailblazer**
-
-`www.salesforce.com/trailblazer/rkola017`
+[VIEW PROFILE →](https://www.salesforce.com/trailblazer/rkola017)
 
 **Email**
+[rachnakola1107@gmail.com](mailto:rachnakola1107@gmail.com)
 
-`rachnakola1107@gmail.com`
+**GitHub**
+[EXPLORE THE CODE →](https://github.com/RKolaHP)
 
 ---
 
@@ -527,6 +529,12 @@ Because sometimes the best way to understand a system is to create one.
 ### `RACHNA // DATA × AI × DESIGN`
 
 **The universe is still loading.**
+
+<br>
+
+[ **ENTER RACHNA.OS AGAIN →** ](https://rkolahp.github.io/Rachna-OS/)
+
+<br>
 
 `© 2026 Rachna Kola`
 
