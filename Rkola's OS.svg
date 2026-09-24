@@ -1,0 +1,987 @@
+<svg
+width="1200"
+height="620"
+viewBox="0 0 1200 620"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+
+>
+
+  <defs>
+
+```
+<!-- Background -->
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620">
+  <stop offset="0%" stop-color="#05070D"/>
+  <stop offset="48%" stop-color="#100A1F"/>
+  <stop offset="100%" stop-color="#03171B"/>
+</linearGradient>
+
+<!-- Main gradient -->
+<linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#9D7CFF"/>
+  <stop offset="48%" stop-color="#00E5FF"/>
+  <stop offset="100%" stop-color="#9CFF57"/>
+</linearGradient>
+
+<linearGradient id="greenSignal" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#9CFF57"/>
+  <stop offset="100%" stop-color="#00E5FF"/>
+</linearGradient>
+
+<!-- Glow -->
+<filter id="glow">
+  <feGaussianBlur stdDeviation="5" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<filter id="softGlow">
+  <feGaussianBlur stdDeviation="18"/>
+</filter>
+
+<!-- Grid -->
+<pattern
+  id="grid"
+  width="40"
+  height="40"
+  patternUnits="userSpaceOnUse"
+>
+  <path
+    d="M 40 0 L 0 0 0 40"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-opacity="0.045"
+    stroke-width="1"
+  />
+</pattern>
+
+<pattern
+  id="microgrid"
+  width="10"
+  height="10"
+  patternUnits="userSpaceOnUse"
+>
+  <path
+    d="M 10 0 L 0 0 0 10"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-opacity="0.018"
+    stroke-width="0.5"
+  />
+</pattern>
+
+<!-- Moving signal -->
+<circle id="packet" r="3" fill="#9CFF57" filter="url(#glow)">
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    dur="2.4s"
+    repeatCount="indefinite"
+  />
+</circle>
+```
+
+  </defs>
+
+  <!-- ========================================================= -->
+
+  <!-- BACKGROUND -->
+
+  <!-- ========================================================= -->
+
+<rect
+ width="1200"
+ height="620"
+ rx="18"
+ fill="url(#bg)"
+/>
+
+<rect
+ width="1200"
+ height="620"
+ fill="url(#grid)"
+/>
+
+<rect
+ width="1200"
+ height="620"
+ fill="url(#microgrid)"
+/>
+
+  <!-- Ambient lights -->
+
+<circle
+ cx="150"
+ cy="120"
+ r="130"
+ fill="#9D7CFF"
+ opacity="0.08"
+ filter="url(#softGlow)"
+/>
+
+<circle
+ cx="1030"
+ cy="430"
+ r="160"
+ fill="#00E5FF"
+ opacity="0.07"
+ filter="url(#softGlow)"
+/>
+
+  <!-- ========================================================= -->
+
+  <!-- FRAME -->
+
+  <!-- ========================================================= -->
+
+<rect
+ x="18"
+ y="18"
+ width="1164"
+ height="584"
+ rx="14"
+ stroke="url(#signal)"
+ stroke-opacity="0.42"
+ stroke-width="1"
+/>
+
+<path
+ d="M18 72 H1182"
+ stroke="#FFFFFF"
+ stroke-opacity="0.10"
+/>
+
+  <!-- ========================================================= -->
+
+  <!-- TOP BAR -->
+
+  <!-- ========================================================= -->
+
+<text
+x="42"
+y="50"
+fill="#9CFF57"
+font-family="monospace"
+font-size="12"
+letter-spacing="2"
+
+>
+
+```
+● SYSTEM ONLINE
+```
+
+  </text>
+
+<text
+x="600"
+y="50"
+text-anchor="middle"
+fill="#FFFFFF"
+font-family="monospace"
+font-size="12"
+letter-spacing="5"
+opacity="0.75"
+
+>
+
+```
+RACHNA.OS // INTELLIGENCE RUNTIME
+```
+
+  </text>
+
+<text
+x="1155"
+y="50"
+text-anchor="end"
+fill="#00E5FF"
+font-family="monospace"
+font-size="11"
+
+>
+
+```
+v.01
+```
+
+  </text>
+
+  <!-- ========================================================= -->
+
+  <!-- TITLE -->
+
+  <!-- ========================================================= -->
+
+<text
+x="600"
+y="125"
+text-anchor="middle"
+fill="#FFFFFF"
+font-family="Arial, Helvetica, sans-serif"
+font-size="54"
+font-weight="700"
+letter-spacing="8"
+
+>
+
+```
+RACHNA.OS
+```
+
+  </text>
+
+<text
+x="600"
+y="153"
+text-anchor="middle"
+fill="url(#signal)"
+font-family="monospace"
+font-size="13"
+letter-spacing="6"
+
+>
+
+```
+DATA × AI × ENGINEERING
+```
+
+  </text>
+
+  <!-- ========================================================= -->
+
+  <!-- CENTRAL CORE -->
+
+  <!-- ========================================================= -->
+
+  <g transform="translate(600 275)">
+
+```
+<!-- outer orbit -->
+<circle
+  r="106"
+  stroke="#FFFFFF"
+  stroke-opacity="0.08"
+  stroke-width="1"
+  stroke-dasharray="4 10"
+>
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    from="0"
+    to="360"
+    dur="22s"
+    repeatCount="indefinite"
+  />
+</circle>
+
+<!-- second orbit -->
+<circle
+  r="82"
+  stroke="url(#signal)"
+  stroke-opacity="0.28"
+  stroke-width="1"
+  stroke-dasharray="2 7"
+>
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    from="360"
+    to="0"
+    dur="14s"
+    repeatCount="indefinite"
+  />
+</circle>
+
+<!-- rotating nodes -->
+<circle
+  cx="0"
+  cy="-106"
+  r="4"
+  fill="#9CFF57"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="106"
+  cy="0"
+  r="4"
+  fill="#00E5FF"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="0"
+  cy="106"
+  r="4"
+  fill="#9D7CFF"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="-106"
+  cy="0"
+  r="4"
+  fill="#9CFF57"
+  filter="url(#glow)"
+/>
+
+<!-- core glow -->
+<circle
+  r="58"
+  fill="#00E5FF"
+  opacity="0.08"
+  filter="url(#softGlow)"
+/>
+
+<!-- core -->
+<circle
+  r="42"
+  fill="#080B13"
+  stroke="url(#signal)"
+  stroke-width="2"
+/>
+
+<circle
+  r="28"
+  fill="none"
+  stroke="#9CFF57"
+  stroke-opacity="0.35"
+  stroke-width="1"
+>
+  <animate
+    attributeName="r"
+    values="24;31;24"
+    dur="2.2s"
+    repeatCount="indefinite"
+  />
+  <animate
+    attributeName="opacity"
+    values="0.25;0.8;0.25"
+    dur="2.2s"
+    repeatCount="indefinite"
+  />
+</circle>
+
+<text
+  x="0"
+  y="-3"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="monospace"
+  font-size="11"
+  letter-spacing="2"
+>
+  CORE
+</text>
+
+<text
+  x="0"
+  y="13"
+  text-anchor="middle"
+  fill="#9CFF57"
+  font-family="monospace"
+  font-size="8"
+>
+  ACTIVE
+</text>
+```
+
+  </g>
+
+  <!-- ========================================================= -->
+
+  <!-- NETWORK CONNECTIONS -->
+
+  <!-- ========================================================= -->
+
+  <!-- DATA -->
+
+<path
+ d="M600 275 C475 220 350 220 210 275"
+ stroke="#9D7CFF"
+ stroke-opacity="0.30"
+ stroke-width="1"
+ fill="none"
+/>
+
+  <!-- AI -->
+
+<path
+ d="M600 275 C725 220 850 220 990 275"
+ stroke="#00E5FF"
+ stroke-opacity="0.30"
+ stroke-width="1"
+ fill="none"
+/>
+
+  <!-- Analytics -->
+
+<path
+ d="M600 275 C500 335 365 350 220 385"
+ stroke="#9CFF57"
+ stroke-opacity="0.25"
+ stroke-width="1"
+ fill="none"
+/>
+
+  <!-- Automation -->
+
+<path
+ d="M600 275 C700 335 835 350 980 385"
+ stroke="#00E5FF"
+ stroke-opacity="0.25"
+ stroke-width="1"
+ fill="none"
+/>
+
+  <!-- ========================================================= -->
+
+  <!-- MOVING DATA PACKETS -->
+
+  <!-- ========================================================= -->
+
+  <circle r="3" fill="#9CFF57" filter="url(#glow)">
+    <animateMotion
+      dur="3s"
+      repeatCount="indefinite"
+      path="M600 275 C475 220 350 220 210 275"
+    />
+  </circle>
+
+  <circle r="3" fill="#00E5FF" filter="url(#glow)">
+    <animateMotion
+      dur="3.8s"
+      repeatCount="indefinite"
+      path="M600 275 C725 220 850 220 990 275"
+    />
+  </circle>
+
+  <circle r="3" fill="#9CFF57" filter="url(#glow)">
+    <animateMotion
+      dur="4.2s"
+      repeatCount="indefinite"
+      path="M600 275 C500 335 365 350 220 385"
+    />
+  </circle>
+
+  <circle r="3" fill="#00E5FF" filter="url(#glow)">
+    <animateMotion
+      dur="3.4s"
+      repeatCount="indefinite"
+      path="M600 275 C700 335 835 350 980 385"
+    />
+  </circle>
+
+  <!-- ========================================================= -->
+
+  <!-- MODULE LABELS -->
+
+  <!-- ========================================================= -->
+
+  <g>
+
+```
+<circle
+  cx="210"
+  cy="275"
+  r="26"
+  fill="#090C14"
+  stroke="#9D7CFF"
+  stroke-opacity="0.7"
+/>
+
+<text
+  x="210"
+  y="272"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="monospace"
+  font-size="9"
+>
+  DATA
+</text>
+
+<text
+  x="210"
+  y="286"
+  text-anchor="middle"
+  fill="#9D7CFF"
+  font-family="monospace"
+  font-size="6"
+>
+  ENGINE
+</text>
+```
+
+  </g>
+
+  <g>
+
+```
+<circle
+  cx="990"
+  cy="275"
+  r="26"
+  fill="#090C14"
+  stroke="#00E5FF"
+  stroke-opacity="0.7"
+/>
+
+<text
+  x="990"
+  y="272"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="monospace"
+  font-size="9"
+>
+  AI
+</text>
+
+<text
+  x="990"
+  y="286"
+  text-anchor="middle"
+  fill="#00E5FF"
+  font-family="monospace"
+  font-size="6"
+>
+  INTEL
+</text>
+```
+
+  </g>
+
+  <g>
+
+```
+<circle
+  cx="220"
+  cy="385"
+  r="26"
+  fill="#090C14"
+  stroke="#9CFF57"
+  stroke-opacity="0.7"
+/>
+
+<text
+  x="220"
+  y="382"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="monospace"
+  font-size="8"
+>
+  BI
+</text>
+
+<text
+  x="220"
+  y="396"
+  text-anchor="middle"
+  fill="#9CFF57"
+  font-family="monospace"
+  font-size="6"
+>
+  ANALYTICS
+</text>
+```
+
+  </g>
+
+  <g>
+
+```
+<circle
+  cx="980"
+  cy="385"
+  r="26"
+  fill="#090C14"
+  stroke="#00E5FF"
+  stroke-opacity="0.7"
+/>
+
+<text
+  x="980"
+  y="382"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="monospace"
+  font-size="8"
+>
+  AUTO
+</text>
+
+<text
+  x="980"
+  y="396"
+  text-anchor="middle"
+  fill="#00E5FF"
+  font-family="monospace"
+  font-size="6"
+>
+  SYSTEMS
+</text>
+```
+
+  </g>
+
+  <!-- ========================================================= -->
+
+  <!-- LOWER VISUAL PANEL -->
+
+  <!-- ========================================================= -->
+
+<rect
+ x="80"
+ y="445"
+ width="1040"
+ height="105"
+ rx="10"
+ fill="#05070D"
+ fill-opacity="0.65"
+ stroke="#FFFFFF"
+ stroke-opacity="0.08"
+/>
+
+  <!-- PANEL LABEL -->
+
+<text
+x="105"
+y="470"
+fill="#9CFF57"
+font-family="monospace"
+font-size="9"
+letter-spacing="2"
+
+>
+
+```
+LIVE SIGNALS
+```
+
+  </text>
+
+  <!-- WAVEFORM -->
+
+<path
+d="M105 515
+L135 515
+L150 495
+L165 530
+L180 505
+L195 515
+L225 515
+L240 480
+L255 535
+L270 505
+L285 515
+L315 515
+L330 490
+L345 525
+L360 500
+L375 515"
+stroke="url(#signal)"
+stroke-width="2"
+fill="none"
+stroke-linecap="round"
+stroke-linejoin="round"
+
+>
+
+```
+<animate
+  attributeName="stroke-dasharray"
+  values="1,700;700,1"
+  dur="3s"
+  repeatCount="indefinite"
+/>
+```
+
+  </path>
+
+  <!-- METRIC 1 -->
+
+<text
+x="470"
+y="478"
+fill="#FFFFFF"
+font-family="monospace"
+font-size="8"
+
+>
+
+```
+PREDICTION
+```
+
+  </text>
+
+<text
+x="470"
+y="510"
+fill="#9CFF57"
+font-family="monospace"
+font-size="27"
+font-weight="bold"
+
+>
+
+```
+87%
+```
+
+  </text>
+
+<text
+x="470"
+y="528"
+fill="#FFFFFF"
+fill-opacity="0.45"
+font-family="monospace"
+font-size="7"
+
+>
+
+```
+ACCURACY SIGNAL
+```
+
+  </text>
+
+  <!-- METRIC 2 -->
+
+<text
+x="640"
+y="478"
+fill="#FFFFFF"
+font-family="monospace"
+font-size="8"
+
+>
+
+```
+VARIANCE
+```
+
+  </text>
+
+<text
+x="640"
+y="510"
+fill="#00E5FF"
+font-family="monospace"
+font-size="27"
+font-weight="bold"
+
+>
+
+```
+-18%
+```
+
+  </text>
+
+<text
+x="640"
+y="528"
+fill="#FFFFFF"
+fill-opacity="0.45"
+font-family="monospace"
+font-size="7"
+
+>
+
+```
+MODEL SIGNAL
+```
+
+  </text>
+
+  <!-- METRIC 3 -->
+
+<text
+x="810"
+y="478"
+fill="#FFFFFF"
+font-family="monospace"
+font-size="8"
+
+>
+
+```
+MEDICAL AI
+```
+
+  </text>
+
+<text
+x="810"
+y="510"
+fill="#9D7CFF"
+font-family="monospace"
+font-size="27"
+font-weight="bold"
+
+>
+
+```
++22%
+```
+
+  </text>
+
+<text
+x="810"
+y="528"
+fill="#FFFFFF"
+fill-opacity="0.45"
+font-family="monospace"
+font-size="7"
+
+>
+
+```
+IoU SIGNAL
+```
+
+  </text>
+
+  <!-- STATUS -->
+
+<text
+x="1050"
+y="478"
+text-anchor="middle"
+fill="#FFFFFF"
+font-family="monospace"
+font-size="8"
+
+>
+
+```
+RUNTIME
+```
+
+  </text>
+
+<circle
+cx="1050"
+cy="510"
+r="7"
+fill="#9CFF57"
+filter="url(#glow)"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="opacity"
+  values="1;0.35;1"
+  dur="1.4s"
+  repeatCount="indefinite"
+/>
+```
+
+  </circle>
+
+<text
+x="1050"
+y="530"
+text-anchor="middle"
+fill="#9CFF57"
+font-family="monospace"
+font-size="7"
+
+>
+
+```
+OPERATIONAL
+```
+
+  </text>
+
+  <!-- ========================================================= -->
+
+  <!-- SCANLINE -->
+
+  <!-- ========================================================= -->
+
+<rect
+x="30"
+y="90"
+width="1140"
+height="1"
+fill="#9CFF57"
+opacity="0.15"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="y"
+  values="90;590;90"
+  dur="7s"
+  repeatCount="indefinite"
+/>
+```
+
+  </rect>
+
+  <!-- ========================================================= -->
+
+  <!-- CORNER MARKERS -->
+
+  <!-- ========================================================= -->
+
+<g
+stroke="url(#signal)"
+stroke-width="2"
+opacity="0.7"
+
+>
+
+```
+<path d="M30 55 V30 H55"/>
+<path d="M1145 30 H1170 V55"/>
+<path d="M30 565 V590 H55"/>
+<path d="M1145 590 H1170 V565"/>
+```
+
+  </g>
+
+  <!-- ========================================================= -->
+
+  <!-- FOOTER -->
+
+  <!-- ========================================================= -->
+
+<text
+x="600"
+y="582"
+text-anchor="middle"
+fill="#FFFFFF"
+fill-opacity="0.42"
+font-family="monospace"
+font-size="8"
+letter-spacing="3"
+
+>
+
+```
+DATA → INTELLIGENCE → DECISION → ACTION
+```
+
+  </text>
+
+</svg>
